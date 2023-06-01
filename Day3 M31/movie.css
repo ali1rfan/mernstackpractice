@@ -1,0 +1,10 @@
+#showmovies{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10;
+}
+#showmovies img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}

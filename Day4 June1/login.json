@@ -1,0 +1,29 @@
+{
+  "myData": [
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "title": "Top Gun Maverick",
+      "rating": 9
+    },
+    {
+      "image": "https://www.appocalypse.co/wp-content/uploads/2019/07/War-Teaser-Poster.jpg",
+      "title": "War",
+      "rating": 9
+    },
+    {
+      "id": 1685611129652,
+      "email": "irfan0075786@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1685613147871,
+      "email": "irfan0075786@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1685613853423,
+      "email": "staycool115@gmail.com",
+      "password": "sgvdvxs"
+    }
+  ]
+}
